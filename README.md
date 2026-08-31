@@ -14,4 +14,4 @@ The Linked List is made out of Nodes that are linked one to the next. Each Node 
 
 This is a short video demonstrating the project running:
 
-![](/videos/video1.webm)
+<video src="/videos/video1.webm" controls width="600"></video>
